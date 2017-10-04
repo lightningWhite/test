@@ -1,2 +1,2 @@
-This is some cool text!
+This is some boring text!
 This is some cooler text!
